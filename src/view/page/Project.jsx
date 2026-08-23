@@ -65,7 +65,7 @@ function Project() {
         </div>
         <div className="flex flex-col justify-center items-center gap-1 h-50">
           <h2 className="">
-            Beautify Your <span className="text-red-500">Space </span>
+            Beautify Your <span className="text-orange-600">Space </span>
           </h2>
           <p className="w-90 font-light text-sm ">
             {" "}
