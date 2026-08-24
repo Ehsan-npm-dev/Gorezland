@@ -1,6 +1,5 @@
 import React from "react";
-import Dud from "../../assets/line/IMG_4350.jpg";
-
+import dud from "../../assets/line/img_4350.jpg";
 import { carts } from "../../assets/Config";
 import { deals } from "../../assets/Config";
 import CartItemMol from "../molcules/CartItemMol";
@@ -13,13 +12,13 @@ import "swiper/css/pagination";
 import "swiper/css";
 import Light from "../../assets/Photo/Frame 297 (2).png";
 import flow from "../../assets/morghabi/IMG_5128.jpg"
-import dani from "../../assets/morghabi/IMG_5243.jpg"
+import dan from "../../assets/morghabi/IMG_5243.jpg"
 function Sport() {
   return (
     <div className="flex flex-col justify-center items-center ">
       <section
         style={{
-          backgroundImage: `url(${Dud})`,
+          backgroundImage: `url(${dud})`,
           backgroundPosition: "center",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
@@ -58,10 +57,10 @@ function Sport() {
         <div className="flex flex-col justify-center items-center w-full bg-white text-black">
           <div className="md:flex md:justify-center md:items-center md:w-full md:gap-15">
             <div className=" flex flex-col justify-center items-center gap-2">
-              <h3 className="text-xl font-bold ">FLOWARTS</h3>
+              <h3 className="text-xl font-bold ">FLOW_ARTS</h3>
               <p className="w-[400px] font-light">
                 {" "}
-                Flowarts is more than just a hobby or performance skill, it is
+                Flow_arts is more than just a hobby or performance skill, it is
                 actually a form of dynamic meditation or movement therapy that
                 has amazing effects on mental health and the nervous system
               </p>
@@ -91,7 +90,7 @@ function Sport() {
                   <img src={flow} alt="logo" className="rounded-3xl" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src={dani} alt="logo" className=" rounded-3xl" />
+                  <img src={dan} alt="logo" className=" rounded-3xl" />
                 </SwiperSlide>
               </Swiper>
             </div>
@@ -104,7 +103,7 @@ function Sport() {
 
       <section className="">
         <h3 className="font-bold h-[13vh] text-xl flex justify-center items-center gap-1 relative top-3">
-          FLOWARTS <span className="text-gray-400"> BEST OF</span>
+          FLOW_ARTS <span className="text-gray-400"> BEST OF</span>
         </h3>
         <div className="flex flex-wrap gap-3 justify-center items-center">
           {carts.map((i) => (
