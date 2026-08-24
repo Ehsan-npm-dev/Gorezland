@@ -6,8 +6,8 @@ import red from "../../assets/hogo/IMG_5194.png";
 import blue from "../../assets/hogo/IMG_5132.jpg";
 import { projects } from "../../assets/Config";
 import ProjectItemMol from "../molcules/ProjectItemMol";
-import goraz from "../../assets/gorez/IMG_2433.jpg";
-import golt from "../../assets/hogo/IMG_5125.jpg";
+import gor from "../../assets/gorez/IMG_2433.jpg";
+import got from "../../assets/hogo/IMG_5125.jpg";
 import TrendingMol from "../molcules/TrendingMol";
 import sia from "../../assets/friends/84d22688-f6a6-424f-bf27-dd13a2b20818.jpg";
 function Project() {
@@ -16,7 +16,7 @@ function Project() {
       <div
         className="flex flex-col justify-center items-center gap-2 w-full text-white h-[90vh]"
         style={{
-          backgroundImage: `url(${golt})`,
+          backgroundImage: `url(${got})`,
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
@@ -30,8 +30,8 @@ function Project() {
         </h2>
         <p className="text-[13px] font-light w-100 md:w-200">
           Projects that push the boundaries of gravity and creativity in the
-          arts of flow and slacklining Our team will organize a series of
-          creative performances and projects in the world of slacklining in{" "}
+          arts of flow and slack Our team will organize a series of
+          creative performances and projects in the world of slack in{" "}
           <br />
           <span className="font-bold text-red-500">Tehran</span> ,the
           <span className="font-bold text-red-500"> North</span> and{" "}
@@ -42,11 +42,11 @@ function Project() {
 
         <ul className=" text-sm font-semibold  justify-center items-center gap-2 md:flex md:flex-wrap lg:h-15 h-35 ">
           <li className=" border rounded-lg w-30 h-8 flex justify-center items-center hover:bg-orange-500 font-semibold ">
-            Gorezland
+             Land
           </li>
           <br />
           <li className=" border rounded-lg w-30 h-8 flex justify-center items-center hover:bg-orange-500 font-semibold ">
-            Hogo
+            H o g o
           </li>
           <br />
           <li className=" border rounded-lg w-30 h-8 flex justify-center items-center hover:bg-orange-500 font-semibold">
@@ -82,7 +82,7 @@ function Project() {
         <div className="flex flex-col justify-center items-center gap-2">
           <div className="flex flex-col justify-center items-center gap-1 relative bottom-3">
             <h3 className="text-xl">
-              Slackline <span className="text-red-500">One step</span> to
+              Slack <span className="text-red-500">One step</span> to
               infinity
             </h3>
             <p className="font-light text-[0.9rem]">
@@ -120,7 +120,7 @@ function Project() {
       <div className="flex flex-col justify-center items-center gap-2 relative top-3 h-30">
         <h1 className="text-md font-bold text-orange-600 relative top-2">
           {" "}
-          DEVELOPED AND DESIGNED BY EHSAN GANDOMI
+          DEVELOPED AND DESIGNED BY EG
         </h1>
         <h2 className=" text-sm">Produced in 2026</h2>
       </div>
@@ -129,7 +129,7 @@ function Project() {
         <div
           className="flex flex-col justify-around  items-center text-white rounded-sm md:h-85 h-100 md:justify-center"
           style={{
-            backgroundImage: `url(${goraz})`,
+            backgroundImage: `url(${gor})`,
             backgroundRepeat: "no-repeat",
             backgroundSize: "cover",
             backgroundPosition: "center",
@@ -141,7 +141,7 @@ function Project() {
             </h3>
             <h2 className="text-black">
               TRAVELING WIDTH TEAM IN GOREZLAND<br />
-              GADERING AND PRACTICE HIGHLINE
+              Gathering AND PRACTICE HIGHLINE
             </h2>
             <p className="font-light text-[12px] lg:text-[14px] text-black">
               WORLD IS YOURS <br />{" "}
