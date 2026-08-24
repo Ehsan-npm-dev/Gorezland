@@ -115,7 +115,7 @@ function Journey() {
           <div className=" w-72 h-50 md:h-111 md:w-100">
             <div className="">
               <h3
-                className="flex justify-center items-center w-74 h-60 md:h-125 md:w-100"
+                className="flex justify-center items-center w-74 h-60 md:h-129 md:w-100 relative bottom-5"
                 style={{
                   backgroundImage: `url(${sia})`,
                   backgroundSize: "cover",
@@ -128,7 +128,7 @@ function Journey() {
 
           <div className="flex flex-col justify-center gap-1">
             <h1
-              className="w-74 bg-amber-300 h-25 md:w-90 md:h-90 md:relative md:top-14 "
+              className="w-74 bg-amber-300 h-25 md:w-90 md:h-129 md:relative md:top-4 "
               style={{
                 backgroundImage: `url(${hali})`,
                 backgroundPosition: "center",
@@ -137,28 +137,7 @@ function Journey() {
                 borderRadius: "3px 2px",
               }}
             ></h1>
-            <div className=" md:flex md:justify-center md:items-center flex justify-center gap-1 items-center">
-              <h3
-                className="h-25 w-35 md:h-48 md:w-44"
-                style={{
-                  backgroundImage: `url(${born})`,
-                  backgroundPosition: "center",
-                  backgroundSize: "cover",
-                  backgroundRepeat: "no-repeat",
-                  borderRadius: "3px 2px",
-                }}
-              ></h3>
-              <h4
-                className="h-25 bg-red-900 w-37 md:h-48 md:w-45"
-                style={{
-                  backgroundImage: `url(${Dude})`,
-                  backgroundPosition: "center",
-                  backgroundSize: "cover",
-                  backgroundRepeat: "no-repeat",
-                  borderRadius: "3px 2px",
-                }}
-              ></h4>
-            </div>
+     
           </div>
         </div>
       </div>
