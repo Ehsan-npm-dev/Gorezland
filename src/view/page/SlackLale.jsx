@@ -1,11 +1,11 @@
-import React from "react";
-import slackLiner from "../../assets/hogo/IMG_5125.jpg";
-import legends from "../../assets/background/squad-1024x1024.png";
-import LearnItemMol from "../molcules/LearnItemMol";
-import { learns } from "../../assets/Config";
-import logo from "../../assets/Icon/Logo (2).png";
-import UserItemMol from "../molcules/UserItemMol";
-import { promises } from "../../assets/Config";
+// import React from "react";
+// import slackLiner from "../../assets/hogo/IMG_5125.jpg";
+// import legends from "../../assets/background/squad-1024x1024.png";
+// import LearnItemMol from "../molcules/LearnItemMol";
+// import { learns } from "../../assets/Config";
+// import logo from "../../assets/Icon/Logo (2).png";
+// import UserItemMol from "../molcules/UserItemMol";
+// import { promises } from "../../assets/Config";
 function SlackLale() {
   return (
     <div className="flex flex-col justify-center gap-2">
