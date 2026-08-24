@@ -9,7 +9,11 @@ import { promises } from "../../assets/Config";
 function SlackLale() {
   return (
     <div className="flex flex-col justify-center gap-2">
-      <section
+      <h3>
+
+        in develop
+      </h3>
+      {/* <section
         className="md:flex md:justify-center md:gap-30 md:items-center w-full h-[90vh] "
         style={{
           backgroundImage: `url(${slackLiner})`,
@@ -114,7 +118,7 @@ function SlackLale() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }

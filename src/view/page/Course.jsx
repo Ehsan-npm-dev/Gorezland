@@ -4,6 +4,7 @@ function Course() {
   return (
     <div>
       Course
+    in develop
     </div>
   )
 }

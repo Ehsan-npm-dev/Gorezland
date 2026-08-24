@@ -4,7 +4,7 @@ function Highline() {
   return (
     <div>
       highline
-      (در حال توسعه)
+      in develop
     </div>
   )
 }

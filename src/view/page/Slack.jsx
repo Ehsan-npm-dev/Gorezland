@@ -4,6 +4,7 @@ function Slack() {
   return (
     <div>
       slack
+      in develop
     </div>
   )
 }

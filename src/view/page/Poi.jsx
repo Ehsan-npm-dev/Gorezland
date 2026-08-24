@@ -4,6 +4,7 @@ function Poi() {
   return (
     <div>
       Poi
+      in develop
     </div>
   )
 }
