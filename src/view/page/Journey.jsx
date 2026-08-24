@@ -1,8 +1,7 @@
 import React from "react";
-import born from "../../assets/line/IMG_4354.jpg";
-import Dude from "../../assets/line/IMG_4347.jpg";
+
 import sia from "../../assets/friends/05356e84-d669-497f-8384-7d9fe977edac.jpg";
-import hali from "../../assets/friends/IMG_6210.jpg"
+import hal from "../../assets/friends/IMG_6210.jpg";
 function Journey() {
   return (
     <section>
@@ -31,7 +30,7 @@ function Journey() {
               give your mind peace{" "}
             </h3>
             <p className="text-sm ">
-              Find your way to absolute focus with standard slackline equipment
+              Find your way to absolute focus with standard slack equipment
               and FlowArt tools
             </p>
           </div>
@@ -39,7 +38,7 @@ function Journey() {
             <ul className="md:flex md:justify-center md:items-center md:gap-10 text-sm font-semibold  flex justify-center items-center gap-5">
               <li className="hover:text-orange-400">center city</li>
               <li className="hover:text-orange-400">Tehran.Iran</li>
-              <li className="hover:text-orange-400">slack.lale</li>
+              <li className="hover:text-orange-400">slack</li>
             </ul>
           </div>
         </div>
@@ -48,7 +47,7 @@ function Journey() {
       <main className="md:flex md:justify-center md:items-center md:gap-4">
         <div className="flex flex-col justify-center items-center gap-2">
           <h1 className=" md:top-1 md:w-50 relative top-1 text-orange-400">
-            SLACKLINE
+            SLACK
           </h1>
           <p className="text-sm font-light w-90">
             Don't focus on the muscles, but rather on the sense of balance and
@@ -56,7 +55,7 @@ function Journey() {
             <br />
             In today's fast-paced world, balance is not a skill, it's a choice
             <br />
-            Balance is the art of finding center amidst instability. Slacklining
+            Balance is the art of finding center amidst instability. Slack
             is not just a sport, it is a practice of returning to oneself
           </p>
           <h2 className="text-orange-400">A set of straps and restraints</h2>
@@ -64,7 +63,7 @@ function Journey() {
             <li>
               From the first step on the rope to the first moment of flight
             </li>
-            <li> your path on the slackline is built with focus</li>
+            <li> your path on the slack is built with focus</li>
             <li>
               {" "}
               We have designed and provided equipment that will meet your
@@ -80,12 +79,12 @@ function Journey() {
           <div className="flex flex-col justify-center items-center gap-2">
             <h1 className=" md:top-1 md:w-50 relative top-1 text-orange-400">
               {" "}
-              FLOWARTS
+              Flow_Arts
             </h1>
             <p className="text-sm font-light w-89">
               By selecting the most precise and high-quality equipment,e
               <br /> we have created a balance between visual beauty and
-              technical performanceating beauty
+              technical performance beauty
               <br />
               so that you can step into the path of creating your art with
               complete confidence
@@ -130,14 +129,13 @@ function Journey() {
             <h1
               className="w-74 bg-amber-300 h-25 md:w-90 md:h-129 md:relative md:top-4 "
               style={{
-                backgroundImage: `url(${hali})`,
+                backgroundImage: `url(${hal})`,
                 backgroundPosition: "center",
                 backgroundSize: "cover",
                 backgroundRepeat: "no-repeat",
                 borderRadius: "3px 2px",
               }}
             ></h1>
-     
           </div>
         </div>
       </div>
