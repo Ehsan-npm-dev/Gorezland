@@ -1,7 +1,8 @@
 import React from "react";
 
+import Dude from "../../assets/line/IMG_4347.jpg";
 import sia from "../../assets/friends/05356e84-d669-497f-8384-7d9fe977edac.jpg";
-import hal from "../../assets/friends/IMG_6210.jpg";
+import hal from "../../assets/friends/IMG_6210.jpg"
 function Journey() {
   return (
     <section>
@@ -79,7 +80,7 @@ function Journey() {
           <div className="flex flex-col justify-center items-center gap-2">
             <h1 className=" md:top-1 md:w-50 relative top-1 text-orange-400">
               {" "}
-              Flow_Arts
+              FLOW_ARTS
             </h1>
             <p className="text-sm font-light w-89">
               By selecting the most precise and high-quality equipment,e
@@ -136,6 +137,7 @@ function Journey() {
                 borderRadius: "3px 2px",
               }}
             ></h1>
+     
           </div>
         </div>
       </div>

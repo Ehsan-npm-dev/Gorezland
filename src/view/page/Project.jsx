@@ -1,5 +1,5 @@
 import React from "react";
-import green from "../../assets/hogo/IMG_5127.jpg";
+// import green from "../../assets/hogo/IMG_5127.jpg";
 import north from "../../assets/hogo/IMG_5126.jpg";
 import tehran from "../../assets/hogo/IMG_5135.jpg";
 import red from "../../assets/hogo/IMG_5194.png";
