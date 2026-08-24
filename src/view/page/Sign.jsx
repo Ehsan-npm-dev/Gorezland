@@ -1,10 +1,10 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import login from "../../assets/line/IMG_4346.jpg";
+// import { Link } from "react-router-dom";
+// import login from "../../assets/line/IMG_4346.jpg";
 function Sign() {
   return (
     <div>
-      <section className=" md:flex md:justify-center md:items-center md:gap-10 h-100">
+      {/* <section className=" md:flex md:justify-center md:items-center md:gap-10 h-100">
         <div className="">
           <div>
             <h1>welcome Back</h1>
@@ -68,7 +68,7 @@ function Sign() {
             <h4 className="text-gray-600 text-sm font-semibold">© 2023 ALL RIGHTS RESERVED</h4>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
