@@ -1,7 +1,7 @@
 import React from "react";
 import TrendItemAtom from "../atom/TrendItemAtom";
 import { Trends } from "../../assets/Config";
-import gorez from "../../assets/gorez/IMG_5457.jpg"
+import gorez from "../../assets/gorez/img_5457.jpg"
 function TrendingMol() {
   return (
     <section className="lg:flex md:flex lg:justify-center lg:items-center md:justify-center md:items-center lg:gap-2 md:gap-3">
