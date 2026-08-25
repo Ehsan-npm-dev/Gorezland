@@ -1,6 +1,6 @@
-import Poi from "../assets/morghabi/IMG_5134.jpg";
-import Staff from "../assets/morghabi/IMG_5128.jpg";
-import Skill from "../assets/line/IMG_4350.jpg";
+import Poi from "../assets/morghabi/img_5134.jpg";
+import Staff from "../assets/morghabi/img_5128.jpg";
+import Skill from "../assets/line/img_4350.jpg";
 export const routes = [
   {
     icon: Poi,
@@ -65,9 +65,9 @@ export const lists = [
   },
 ];
 
-import Boz from "../assets/morghabi/IMG_5272.jpg";
-import Bol from "../assets/morghabi/IMG_5279.jpg";
-import Bod from "../assets/morghabi/IMG_5254.jpg";
+import Boz from "../assets/morghabi/img_5272.jpg";
+import Bol from "../assets/morghabi/img_5279.jpg";
+import Bod from "../assets/morghabi/img_5254.jpg";
 export const pics = [
   {
     icon: Bol,
@@ -106,10 +106,10 @@ export const reels = [
 ];
 
 
-import Sun from "../assets/hogo/IMG_5194.png";
-import ali from "../assets/morghabi/IMG_5129.jpg"
-import esi from "../assets/line/IMG_4347.jpg"
-import tedi from "../assets/morghabi/IMG_5128.jpg"
+import Sun from "../assets/hogo/img_5194.png";
+import ali from "../assets/morghabi/img_5129.jpg"
+import esi from "../assets/line/img_4347.jpg"
+import tedi from "../assets/morghabi/img_5128.jpg"
 export const carts = [
   {
     img: Sun,
@@ -141,10 +141,10 @@ export const carts = [
   },
 ];
 
-import Loov from "../assets/background/Section → image.png";
-import toys from "../assets/line/IMG_4348.jpg"
-import boys from "../assets/line/IMG_4350.jpg"
-import guys from "../assets/line/IMG_4347.jpg"
+// import Loov from "../assets/background/Section → image.png";
+import toys from "../assets/line/img_4348.jpg"
+import boys from "../assets/line/img_4350.jpg"
+import guys from "../assets/line/img_4347.jpg"
 export const deals = [
   {
     img: guys,
@@ -168,13 +168,13 @@ export const deals = [
   },
 ];
 // import Logo from "../assets/line/div.featureCard__image (1).png"
-import ja from "../assets/hogo/IMG_5126.jpg";
-import Pa from "../assets/hogo/IMG_5135.jpg";
-import Ra from "../assets/hogo/IMG_5132.jpg";
+import ja from "../assets/hogo/img_5126.jpg";
+import Pa from "../assets/hogo/img_5135.jpg";
+import Ra from "../assets/hogo/img_5132.jpg";
 export const charts = [
   {
     icon: ja,
-    title: " Danii",
+    title: " Dan",
   },
   {
     icon: Pa,
@@ -182,7 +182,7 @@ export const charts = [
   },
   {
     icon: Ra,
-    title: "Gorazland",
+    title: "Gorez_land",
   },
 ];
 
@@ -254,8 +254,8 @@ export const hours = [
     title: "Tracking shipping status",
   },
 ];
-import rez from "../assets/gorez/IMG_5456.jpg"
-import Roe from "../assets/morghabi/IMG_5275.jpg";
+import rez from "../assets/gorez/img_5456.jpg"
+import Roe from "../assets/morghabi/img_5275.jpg";
 export const projects = [
   {
     img: Roe,
@@ -267,9 +267,9 @@ export const projects = [
   },
 
 ];
-import Hor from "../assets/background/image.png";
+// import Hor from "../assets/background/image.png";
 import sir from "../assets/friends/05356e84-d669-497f-8384-7d9fe977edac.jpg"
-import tir from "../assets/friends/IMG_6210.jpg"
+import tir from "../assets/friends/img_6210.jpg"
 export const Trends = [
 
 
