@@ -1,13 +1,13 @@
 import React from "react";
 // import green from "../../assets/hogo/IMG_5127.jpg";
-import north from "../../assets/hogo/IMG_5126.jpg";
-import tehran from "../../assets/hogo/IMG_5135.jpg";
-import red from "../../assets/hogo/IMG_5194.png";
-import blue from "../../assets/hogo/IMG_5132.jpg";
+import north from "../../assets/hogo/img_5126.jpg";
+import tehran from "../../assets/hogo/img_5135.jpg";
+import red from "../../assets/hogo/img_5194.png";
+// import blue from "../../assets/hogo/IMG_5132.jpg";
 import { projects } from "../../assets/Config";
 import ProjectItemMol from "../molcules/ProjectItemMol";
-import gor from "../../assets/gorez/IMG_2433.jpg";
-import got from "../../assets/hogo/IMG_5125.jpg";
+import gor from "../../assets/gorez/img_2433.jpg";
+import got from "../../assets/hogo/img_5125.jpg";
 import TrendingMol from "../molcules/TrendingMol";
 import sia from "../../assets/friends/84d22688-f6a6-424f-bf27-dd13a2b20818.jpg";
 function Project() {
@@ -140,7 +140,7 @@ function Project() {
               paradise hogo - 04 June 2025
             </h3>
             <h2 className="text-black">
-              TRAVELING WIDTH TEAM IN GOREZLAND<br />
+              TRAVELING WIDTH TEAM IN GOREZ_LAND<br />
               Gathering AND PRACTICE HIGHLINE
             </h2>
             <p className="font-light text-[12px] lg:text-[14px] text-black">

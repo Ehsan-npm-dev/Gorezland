@@ -4,9 +4,9 @@ import { Pagination } from "swiper/modules";
 import { Link } from "react-router-dom";
 import "swiper/css/pagination";
 import "swiper/css";
-import Mola from "../../assets/morghabi/IMG_5235.jpg";
-import Amel from "../../assets/morghabi/IMG_5236.jpg";
-import Sali from "../../assets/morghabi/IMG_5199.jpg";
+import Mola from "../../assets/morghabi/img_5235.jpg";
+import Ame from "../../assets/morghabi/img_5236.jpg";
+import Sal from "../../assets/morghabi/img_5199.jpg";
 function LearnAtom() {
   return (
     <div className="flex flex-col justify-center items-center bg-white w-full text-black h-[94vh] ">
@@ -39,10 +39,10 @@ function LearnAtom() {
             </SwiperSlide>
             <SwiperSlide>
               {" "}
-              <img src={Amel} alt="logo" className="rounded-xl w-90 h-100" />
+              <img src={Ame} alt="logo" className="rounded-xl w-90 h-100" />
             </SwiperSlide>
             <SwiperSlide>
-              <img src={Sali} alt="logo" className="rounded-xl w-90 h-100" />
+              <img src={Sal} alt="logo" className="rounded-xl w-90 h-100" />
             </SwiperSlide>
           </Swiper>
         </div>

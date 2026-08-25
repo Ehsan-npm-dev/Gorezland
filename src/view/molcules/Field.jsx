@@ -2,7 +2,7 @@ import React from "react";
 import { routes } from "../../assets/Config";
 import CardItemMol from "./CardItemMol";
 // import { routes } from "../../assets/Config"
-import { useTranslation } from "react-i18next";
+// import { useTranslation } from "react-i18next";
 
 function Field() {
   return (

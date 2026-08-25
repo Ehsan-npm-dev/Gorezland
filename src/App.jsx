@@ -19,7 +19,7 @@ import Adventure from "./view/page/Adventure";
 import Highline from "./view/page/Highline";
 import Festival from "./view/page/Festival";
 import Slackline from "./view/page/Slackline";
-import Highliner from "./view/page/Highline";
+// import Highliner from "./view/page/Highline";
 function App() {
   return (
     <div className="text-center font-bold text-white">

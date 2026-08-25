@@ -11,8 +11,8 @@ import { Link } from "react-router-dom";
 import "swiper/css/pagination";
 import "swiper/css";
 import Light from "../../assets/Photo/Frame 297 (2).png";
-import flow from "../../assets/morghabi/IMG_5128.jpg"
-import dan from "../../assets/morghabi/IMG_5243.jpg"
+import flow from "../../assets/morghabi/img_5128.jpg"
+import dan from "../../assets/morghabi/img_5243.jpg"
 function Sport() {
   return (
     <div className="flex flex-col justify-center items-center ">

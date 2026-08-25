@@ -1,8 +1,8 @@
 import React from "react";
 
-import Dude from "../../assets/line/IMG_4347.jpg";
+import Dude from "../../assets/line/img_4347.jpg";
 import sia from "../../assets/friends/05356e84-d669-497f-8384-7d9fe977edac.jpg";
-import hal from "../../assets/friends/IMG_6210.jpg"
+import hal from "../../assets/friends/img_6210.jpg"
 function Journey() {
   return (
     <section>

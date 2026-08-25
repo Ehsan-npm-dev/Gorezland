@@ -1,13 +1,13 @@
 import React from "react";
 import DeliveryAtom from "../atom/deliveryAtom";
-import AboutItemMol from "../molcules/AboutItemMol";
-import { reels } from "../../assets/Config";
+// import AboutItemMol from "../molcules/AboutItemMol";
+// import { reels } from "../../assets/Config";
 import { tools } from "../../assets/Config";
 import { users } from "../../assets/Config";
 import { hours } from "../../assets/Config";
 import UltimateAtom from "../atom/UltimateAtom";
 import ResultAtom from "../atom/ResultAtom";
-import line from "../../assets/gorez/IMG_5459.jpg"
+import line from "../../assets/gorez/img_5459.jpg"
 import sky from "../../assets/background/mountion.png";
 function About() {
   return (

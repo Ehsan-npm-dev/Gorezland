@@ -1,9 +1,9 @@
 import React from "react";
 import "./originalTop.css";
-import magic from "../../assets/line/IMG_4348.JPG";
+import magic from "../../assets/line/img_4348.JPG";
 import { Link } from "react-router-dom";
-
 import { useTranslation } from "react-i18next";
+
 function OriginalTop() {
   const { t } = useTranslation();
   return (
@@ -22,8 +22,8 @@ function OriginalTop() {
           MOTIVATION
         </h3>
         <p className="text-sm w-105">
-          رویاهای بزرگ ،  <span className="text-red-500">در تعادل </span>میان سکون و سقوط شکل می گیرند.{" "}
-          <br />
+          رویاهای بزرگ ، <span className="text-red-500">در تعادل </span>میان
+          سکون و سقوط شکل می گیرند. <br />
           ایستادگی کن ،حتی وقتی مسیر زیر پایت می لرزد
         </p>
         <span class="btn">
