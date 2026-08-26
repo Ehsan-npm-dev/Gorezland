@@ -235,8 +235,8 @@ export const users = [
   },
 ];
 import Authentic from "../assets/robot/shield-1 1.png";
-import Row from "../assets/robot/Group.svg";
-import post from "../assets/robot/Group (1).svg";
+import Row from "../assets/robot/group.svg";
+import post from "../assets/robot/group (1).svg";
 export const hours = [
   {
     img: post,
@@ -309,7 +309,7 @@ export const learns = [
     title: "دوره های آموزشی",
   },
 ];
-import Pic from "../assets/photo/Frame 297 (3).png";
+import Pic from "../assets/photo/frame 297 (3).png";
 export const promises = [
   {
     par: "لورم ایپسوم متن ساختگی با تولید  سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است",
