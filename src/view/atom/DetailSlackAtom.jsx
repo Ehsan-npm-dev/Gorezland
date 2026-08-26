@@ -1,19 +1,19 @@
 import React from "react";
-import pakh from "../../assets/line/IMG_4349.JPG";
+import pak from "../../assets/line/img_4349.jpg";
 function DetailSlackAtom() {
   return (
     <div className="md:flex md:justify-center md:items-center md:gap-10 md:w-full">
       <main
         className="flex justify-center items-center gap-1 w-full text-white rounded-sm h-[59vh]"
         style={{
-          backgroundImage: `url(${pakh})`,
+          backgroundImage: `url(${pak})`,
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
         }}
       >
         <div className="relative top-46  lg:relative lg:bottom-20">
-          <h2 className="text-sm font-light">Debtis ~ 03 June 2024</h2>
+          <h2 className="text-sm font-light">DL ~ 03 June 2024</h2>
           <h1 className=" md:text-md text-3xl w-90">
            GOREZ_LAND <br />
             NORTH OF <span className="text-red-700">IRAN</span>

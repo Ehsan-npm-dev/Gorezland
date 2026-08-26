@@ -1,7 +1,7 @@
 import React from "react";
-import Light from "../../assets/morghabi/IMG_5274.jpg";
-import fight from "../../assets/morghabi/IMG_5273.jpg";
-import kind from "../../assets/morghabi/IMG_5234.jpg";
+import Light from "../../assets/morghabi/img_5274.jpg";
+import fight from "../../assets/morghabi/img_5273.jpg";
+import kind from "../../assets/morghabi/img_5234.jpg";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper/modules";
 import "swiper/css";

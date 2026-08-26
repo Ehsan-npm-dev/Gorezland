@@ -1,6 +1,6 @@
 import React from "react";
 import "./originalTop.css";
-import magic from "../../assets/line/img_4348.JPG";
+import magic from "../../assets/line/img_4348.jpg";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 

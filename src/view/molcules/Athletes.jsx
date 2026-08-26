@@ -5,7 +5,7 @@ function Athletes() {
   return (
     <div className=" ">
       <div>
-        <h3 className=" h-[8vh] text-xl flex justify-center items-center"><span className="text-orange-500 w-30 "> Slacklining </span> History of </h3>
+        <h3 className=" h-[8vh] text-xl flex justify-center items-center"><span className="text-orange-500 w-30 "> Slack </span> History of </h3>
       </div>
       <div className="md:flex md:flex-wrap md:justify-center md:items-center lg:flex gap-5">
         {pics.map((i) => (

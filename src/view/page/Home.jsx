@@ -33,9 +33,9 @@ function Home() {
           </h1>
 
           <p className="font-light text-[0.9rem] text-violet-50 ">
-            Slackline dance focuses on the edge of instability, unlike
+            Slack dance focuses on the edge of instability, unlike
             traditional <br /> sports that rely on{" "}
-            <span className="text-red-500">strength or speed</span> . Slackline
+            <span className="text-red-500">strength or speed</span> . Slack
             is about <br /> coordination between nervous system control
           </p>
           <button className="text-white border p-1 w-48 h-8 rounded-sm text-sm hover:bg-amber-600 font-semibold hover:text-black">
@@ -72,7 +72,7 @@ function Home() {
         <div className="w-full flex flex-col justify-center items-center h-50 gap-1">
           <h4 className="text-xl ">
             {" "}
-            <span className="text-red-500">Slackline </span> is Here
+            <span className="text-red-500">Slack </span> is Here
           </h4>
           <h6 className="text-[16px] font-semibold ">
             ?Why should we start training in this field as soon as possible
