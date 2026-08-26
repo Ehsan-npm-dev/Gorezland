@@ -7,7 +7,7 @@ import { users } from "../../assets/Config";
 import { hours } from "../../assets/Config";
 import UltimateAtom from "../atom/UltimateAtom";
 import ResultAtom from "../atom/ResultAtom";
-import line from "../../assets/gorez/img_5459.jpg"
+import line from "../../assets/gorez/img_5459.jpg";
 import sky from "../../assets/background/moons.png";
 function About() {
   return (
@@ -18,22 +18,26 @@ function About() {
           backgroundImage: `url(${line})`,
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
-          backgroundSize:"cover",
+          backgroundSize: "cover",
         }}
       >
-        <h3 className="text-2xl  relative bottom-74 md:relative md:top-10">BEYOND SPORTS</h3>
-        <h2 className="text-[1rem] font-sans text-black relative bottom-75 md:relative md:top-10 md:text-white">
-          {" "}
-          A commitment to a<span className=""> healthy</span> and
-          exciting life
-        </h2>
-        <p className="font-light text-black text-[0.9rem] md:w-150 w-103 lg:w-200 relative bottom-75 md:relative md:top-10 md:text-white">
-          We believe that exercise and physical activity are not a luxury
-          choice, but rather the main foundation of quality of life in the
-          modern world. Our goal is to eliminate the gap between knowing the
-          importance of exercise and its principled implementation, relying on
-          up-to-date knowledge and standard methods
-        </p>
+        <div className="flex-2 md:flex md:flex-col md:justify-center">
+          <h3 className="text-2xl  md:relative md:top-10 text-orange-600">
+            BEYOND SPORTS
+          </h3>
+          <h2 className="text-[1rem] font-sans text-white  md:relative md:top-10 md:text-white">
+            {" "}
+            A commitment to a<span className=""> healthy</span> and exciting
+            life
+          </h2>
+          <p className="font-light text-black text-[0.9rem] md:w-150 w-103 lg:w-200  md:relative md:top-10 md:text-white">
+            We believe that exercise and physical activity are not a luxury
+            choice, but rather the main foundation of quality of life in the
+            modern world. Our goal is to eliminate the gap between knowing the
+            importance of exercise and its principled implementation, relying on
+            up-to-date knowledge and standard methods
+          </p>
+        </div>
 
         {/* <div className=" hidden lg:flex lg:justify-center lg:items-center lg:gap-6 bg-white text-black rounded-lg w-[700px] h-15  ">
           {reels.map((i) => (
@@ -50,8 +54,8 @@ function About() {
       <main className="flex flex-col justify-center items-center gap-5 w-full">
         <div className="">
           <h1 className="text-xl h-20 flex justify-center items-center w-100  lg:w-140">
-            We are not just a website, we are with you on the difficult
-            path of change
+            We are not just a website, we are with you on the difficult path of
+            change
           </h1>
         </div>
         <div className="md:flex md:justify-center md:items-center md:gap-1">
