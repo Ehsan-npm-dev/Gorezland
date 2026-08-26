@@ -10,7 +10,7 @@ import { Pagination } from "swiper/modules";
 import { Link } from "react-router-dom";
 import "swiper/css/pagination";
 import "swiper/css";
-import Light from "../../assets/Photo/Frame 297 (2).png";
+import light from "../../assets/Photo/frame 297 (2).png";
 import flow from "../../assets/morghabi/img_5128.jpg"
 import dan from "../../assets/morghabi/img_5243.jpg"
 function Sport() {
@@ -83,7 +83,7 @@ function Sport() {
                 loop={true}
               >
                 <SwiperSlide>
-                  <img src={Light} alt="logo" />
+                  <img src={light} alt="logo" />
                 </SwiperSlide>
                 <SwiperSlide>
                   {" "}

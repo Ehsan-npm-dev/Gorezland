@@ -1,7 +1,7 @@
 import React from "react";
 import Athletes from "../molcules/Athletes";
 import slackLiner from "../../assets/line/img_4353.JPG";
-import secret from "../../assets/Photo/ways.png";
+import secret from "../../assets/photo/ways.png";
 import { charts } from "../../assets/Config";
 import TrendingAtom from "../atom/TrendingAtom";
 import DetailSlackAtom from "../atom/DetailSlackAtom";

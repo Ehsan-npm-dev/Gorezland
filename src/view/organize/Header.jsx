@@ -1,9 +1,9 @@
 import React from "react";
-import vector from "../../assets/Icon/bars.png";
-import logo from "../../assets/Icon/Logo (2).png";
+import vector from "../../assets/icon/bars.png";
+import logo from "../../assets/icon/logo (2).png";
 import ListMol from "../molcules/ListMol";
 import { Link } from "react-router-dom";
-import person from "../../assets/Icon/User.png";
+import person from "../../assets/icon/users.png";
 import { useTranslation } from "react-i18next";
 import Navbar from "../molcules/Navbar";
 function Header() {

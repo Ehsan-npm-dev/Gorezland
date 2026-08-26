@@ -114,7 +114,7 @@ export const carts = [
   {
     img: Sun,
     detail: "North",
-    title: "EVENT GORAZLAND",
+    title: "EVENT GOREZ_LAND",
     time: " 3 Day",
   
   },
@@ -201,11 +201,11 @@ export const tools = [
   {
     icon: Medal,
     text: "trust and authenticity",
-    title: "Specialized sports reference (slacklining and flow arts)",
+    title: "Specialized sports reference (slack and flow arts)",
   },
   {
     icon: Ticket,
-    text: "Slack Lale",
+    text: "Slack_lale",
     title: "A safe and adrenaline-filled place to practice  ",
   },
   {
@@ -286,7 +286,7 @@ export const Trends = [
     par: "AMIR HALAJAN TRAINE IN HOGO",
   },
 ];
-import User from "../assets/Icon/User.png";
+import User from "../assets/icon/users.png";
 export const learns = [
   {
     icon: User,
@@ -309,7 +309,7 @@ export const learns = [
     title: "دوره های آموزشی",
   },
 ];
-import Pic from "../assets/Photo/Frame 297 (3).png";
+import Pic from "../assets/photo/Frame 297 (3).png";
 export const promises = [
   {
     par: "لورم ایپسوم متن ساختگی با تولید  سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است",

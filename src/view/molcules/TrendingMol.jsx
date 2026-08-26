@@ -16,7 +16,7 @@ function TrendingMol() {
           }}
         >
           <div className="text-white relative top-45">
-            <h2 className="text-sm font-bold text-black">Debtis ~ 03 June 2024</h2>
+            <h2 className="text-sm font-bold text-black">Number 1  03 June 2025</h2>
             <h1 className="text-2xl text-black">
               DISCOVER THE MEMBER <br />
               BENEFITS OF USA CYCLING

@@ -1,5 +1,7 @@
 import React from "react";
-// import green from "../../assets/hogo/IMG_5127.jpg";
+// import green from "../../assets/hhhhhhh
+// hhhhhhhhhhhh
+// /IMG_5127.jpg";
 import north from "../../assets/hogo/img_5126.jpg";
 import tehran from "../../assets/hogo/img_5135.jpg";
 import red from "../../assets/hogo/img_5194.png";
@@ -42,7 +44,7 @@ function Project() {
 
         <ul className=" text-sm font-semibold  justify-center items-center gap-2 md:flex md:flex-wrap lg:h-15 h-35 ">
           <li className=" border rounded-lg w-30 h-8 flex justify-center items-center hover:bg-orange-500 font-semibold ">
-             Land
+             L a n d
           </li>
           <br />
           <li className=" border rounded-lg w-30 h-8 flex justify-center items-center hover:bg-orange-500 font-semibold ">
@@ -50,7 +52,7 @@ function Project() {
           </li>
           <br />
           <li className=" border rounded-lg w-30 h-8 flex justify-center items-center hover:bg-orange-500 font-semibold">
-            Adventure
+            A d v e n t u r e
           </li>
         </ul>
       </div>
@@ -63,7 +65,7 @@ function Project() {
           </h1>
       
         </div>
-        <div className="flex flex-col justify-center items-center gap-1 h-50">
+        <div className="flex flex-col justify-center items-center gap-1 h-20">
           <h2 className="">
             Beautify Your <span className="text-orange-600">Space </span>
           </h2>

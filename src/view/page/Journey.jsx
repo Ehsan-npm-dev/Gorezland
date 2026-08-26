@@ -1,6 +1,6 @@
 import React from "react";
 
-import Dude from "../../assets/line/img_4347.jpg";
+import dude from "../../assets/line/img_4347.jpg";
 import sia from "../../assets/friends/05356e84-d669-497f-8384-7d9fe977edac.jpg";
 import hal from "../../assets/friends/img_6210.jpg"
 function Journey() {
@@ -9,7 +9,7 @@ function Journey() {
       <div
         className="w-full flex justify-center items-center  h-[90vh]"
         style={{
-          backgroundImage: `url(${Dude})`,
+          backgroundImage: `url(${dude})`,
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundSize: "cover",
@@ -30,22 +30,22 @@ function Journey() {
               Learn the art of <span className="text-red-500">balance</span> and
               give your mind peace{" "}
             </h3>
-            <p className="text-sm ">
+            <p className="text-[0.9rem] ">
               Find your way to absolute focus with standard slack equipment
               and FlowArt tools
             </p>
           </div>
           <div>
             <ul className="md:flex md:justify-center md:items-center md:gap-10 text-sm font-semibold  flex justify-center items-center gap-5">
-              <li className="hover:text-orange-400">center city</li>
-              <li className="hover:text-orange-400">Tehran.Iran</li>
-              <li className="hover:text-orange-400">slack</li>
+              <li className="hover:text-orange-400 text-xl">center city</li>
+              <li className="hover:text-orange-400 text-xl">Tehran.Iran</li>
+              <li className="hover:text-orange-400 text-xl">slack Tulip</li>
             </ul>
           </div>
         </div>
       </div>
 
-      <main className="md:flex md:justify-center md:items-center md:gap-4">
+      <main className="md:flex md:justify-center md:items-center md:gap-4 md:relative md:top-10">
         <div className="flex flex-col justify-center items-center gap-2">
           <h1 className=" md:top-1 md:w-50 relative top-1 text-orange-400">
             SLACK
@@ -110,12 +110,12 @@ function Journey() {
         </div>
       </main>
 
-      <div className="w-full flex flex-col justify-center h-140 items-center  ">
+      <div className="w-full flex flex-col justify-center h-190 items-center  ">
         <div className="md:flex md:justify-center md:items-center md:gap-1">
-          <div className=" w-72 h-50 md:h-111 md:w-100">
+          <div className=" w-72 h-100 md:h-111 md:w-100">
             <div className="">
               <h3
-                className="flex justify-center items-center w-74 h-60 md:h-129 md:w-100 relative bottom-5"
+                className="flex justify-center items-center w-74 h-110 md:h-129 md:w-100 md:relative md:bottom-5"
                 style={{
                   backgroundImage: `url(${sia})`,
                   backgroundSize: "cover",
@@ -128,7 +128,7 @@ function Journey() {
 
           <div className="flex flex-col justify-center gap-1">
             <h1
-              className="w-74 bg-amber-300 h-25 md:w-90 md:h-129 md:relative md:top-4 "
+              className="w-74 bg-amber-300 h-80 md:w-90 md:h-129 md:relative md:top-4 "
               style={{
                 backgroundImage: `url(${hal})`,
                 backgroundPosition: "center",

@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "../../assets/icon/Logo (2).png";
-import icon from "../../assets/Icon/InstagramLogo.png";
+import logo from "../../assets/icon/logo (2).png";
+import icon from "../../assets/icon/instagram.png";
 import { Link } from "react-router-dom";
 function Footer() {
   return (

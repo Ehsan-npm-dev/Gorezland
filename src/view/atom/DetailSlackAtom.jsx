@@ -12,10 +12,10 @@ function DetailSlackAtom() {
           backgroundSize: "cover",
         }}
       >
-        <div className="relative top-36  lg:relative lg:bottom-20">
+        <div className="relative top-46  lg:relative lg:bottom-20">
           <h2 className="text-sm font-light">Debtis ~ 03 June 2024</h2>
           <h1 className=" md:text-md text-3xl w-90">
-           GOREZLAND <br />
+           GOREZ_LAND <br />
             NORTH OF <span className="text-red-700">IRAN</span>
           </h1>
         </div>
