@@ -1,6 +1,6 @@
 import React from "react";
 import Athletes from "../molcules/Athletes";
-import slackLiner from "../../assets/line/img_4353.jpg";
+import slack from "../../assets/line/img_4353.jpg"
 import secret from "../../assets/photo/ways.png";
 import { charts } from "../../assets/Config";
 import TrendingAtom from "../atom/TrendingAtom";
@@ -14,7 +14,7 @@ function Home() {
       <section
         className="md:flex md:justify-center md:gap-30 md:items-center w-full h-[90vh]"
         style={{
-          backgroundImage: `url(${slackLiner})`,
+          backgroundImage: `url(${slack})`,
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundSize: "cover",

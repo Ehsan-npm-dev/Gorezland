@@ -72,7 +72,7 @@ function Navbar() {
       </nav>
       <div>
         <button className="nav-btn" onClick={showNavbar} onChange={toggleTheme}>
-          <FaBars className="size-6 text-gray-400" />
+          <FaBars className="size-6 text-gray-400 md:hidden" />
         </button>
       </div>
     </header>

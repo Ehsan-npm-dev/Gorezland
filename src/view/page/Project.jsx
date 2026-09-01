@@ -74,7 +74,7 @@ function Project() {
             We take balance to a new level, from high-rises to Art streaming
             performances, projects that will <br /> take your breath away
           </p>
-          <button className=" border rounded-sm bg-white text-black font-sm w-30 h-8 hover:bg-amber-600  hover:text-white font-semibold text-[13px]">
+          <button className=" border rounded-sm bg-white text-black font-sm w-30 hover:bg-amber-600  hover:text-white font-semibold text-[14px]">
             Learn More
           </button>
         </div>
